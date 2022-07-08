@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">广播</string>
+    <string name="start">开始接收广播</string>
+    <string name="send_broadcast">发送广播</string>
+</resources>
